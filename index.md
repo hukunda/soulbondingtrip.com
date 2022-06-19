@@ -3,6 +3,12 @@ layout: default
 ---
 {% include navheader.html %}
 
+<style>
+  .intro-text {
+    padding: 0 !important;
+  }
+</style>
+
 <img src="assets/img/header.jpg" style="width: 100%">
 
 <section class="page-section" id="about">
