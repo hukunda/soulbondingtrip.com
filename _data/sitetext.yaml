@@ -14,14 +14,17 @@ en:
     title:
     text:
 
+  date:
+    content: "1.1.1997"
+    section: date
+
+  locality:
+    title: "Locality"
+    address: "Soulkostel 1"
+    section: location
+
   about:
     title: "About"
-    text: "What is Soulbönding Trip"
-    body: "The Journey to the depths of the Czech - Poland borderline and also a Journey to the depths of your own mind for the fourth time. More like a community than a festival."
-    section: about
-
-  location:
-    title: "Location"
     text: "What is Soulbönding Trip"
     body: "The Journey to the depths of the Czech - Poland borderline and also a Journey to the depths of your own mind for the fourth time. More like a community than a festival."
     section: about
@@ -43,8 +46,6 @@ en:
     social:
       - url: https://www.facebook.com/soulbondingtrip
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
       - url: www.instagram.com/soulbonding_trip
         icon: "fab fa-instagram"
       - url: https://github.com/fusakla/soulbondingtrip.com
