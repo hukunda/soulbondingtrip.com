@@ -1,1 +1,5 @@
-Fooooooo
+---
+layout: home
+---
+
+# Fooooooo
