@@ -15,11 +15,12 @@ en:
     text:
 
   date:
-    content: "8. 9. – 10. 9. 2022 "
+    title: When it is
+    date: "8. 9. – 10. 9. 2022 "
     section: date
 
   locality:
-    title: "Locality"
+    title: "Where it is"
     address: "Soulkostel,  Vernéřovice 239, Vernéřovice "
     section: location
 
