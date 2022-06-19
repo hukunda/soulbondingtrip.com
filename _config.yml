@@ -6,9 +6,9 @@ title      : Soul bonding trip
 email      : info@soulbondingtrip.com
 description: "Let's go on a soul bonding trip!"
 author     : Skeeveecek
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     
+  path: img\logo.jpg
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
