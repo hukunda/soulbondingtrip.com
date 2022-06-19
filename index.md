@@ -3,7 +3,7 @@ layout: default
 ---
 {% include navheader.html %}
 
-<img src="../img/header.jpg" style="width: 100%">
+<img src="assets/img/header.jpg" style="width: 100%">
 
 <section class="page-section" id="about">
   <div class="container">
