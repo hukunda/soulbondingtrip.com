@@ -13,9 +13,11 @@ en:
   nav:
     - title: "About"
       section: about
-    - title: "Location"
-      section: location
     - title: "Date"
       section: date
+    - title: "Locality"
+      section: locality
+    - title: "Tickets"
+      section: tickets
     - title: "Contact"
       section: contact

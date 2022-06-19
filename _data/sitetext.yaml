@@ -28,6 +28,11 @@ en:
     text: "What is Soulbönding Trip"
     body: "The Journey to the depths of the Czech - Poland borderline and also a Journey to the depths of your own mind for the fourth time. More like a community than a festival."
     section: about
+  
+  tickets:
+    title: "Tickets"
+    link: https://goout.net/cs/listky/soulbonding-trip-2022/vpnn/
+    section: tickets
 
   contact:
     title: "Contact Us"

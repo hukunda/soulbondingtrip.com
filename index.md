@@ -14,4 +14,5 @@ layout: default
 {% include date.html %}
 {% include locality.html %}
 {% include about.html %}
+{% include tickets.html %}
 {% include contact.html %}
