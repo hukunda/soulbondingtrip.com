@@ -1,4 +1,4 @@
-
+--- # -----------------
 #
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
@@ -9,20 +9,13 @@
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
 # English (default)
-# -----------------
-en: 
+en:
   nav:
-    - title: "About us"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
+    - title: "Location"
+      section: location
+    - title: "Date"
+      section: date
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
