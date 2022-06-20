@@ -11,12 +11,12 @@
 # English (default)
 en:
   nav:
-    - title: "About"
-      section: about
     - title: "Date"
       section: date
     - title: "Locality"
       section: locality
+    - title: "About"
+      section: about
     - title: "Tickets"
       section: tickets
     - title: "Contact"
