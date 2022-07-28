@@ -266,7 +266,7 @@ header.masthead .intro-text .intro-heading {
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 0;
-    background: #0fd872;
+    background: #0fd87364;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
