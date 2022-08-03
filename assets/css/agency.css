@@ -101,7 +101,8 @@ img::-moz-selection {
 }
 
 #mainNav {
-    background-color: #212529
+    -webkit-box-shadow: inset 0px 40px 26px -14px #000000; 
+    box-shadow: inset 0px 40px 26px -14px #000000;
 }
 
 #mainNav .navbar-toggler {
@@ -166,12 +167,14 @@ img::-moz-selection {
     #mainNav.navbar-shrink {
         padding-top: 0;
         padding-bottom: 0;
-        background-color: #212529
+        -webkit-box-shadow: inset 0px 40px 26px -14px #000000; 
+        box-shadow: inset 0px 40px 36px 0px #000000;
+        filter: drop-shadow(2px) ;
     }
 
     #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0
+        padding: 12px 0;
     }
 }
 
