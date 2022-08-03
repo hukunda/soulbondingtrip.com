@@ -167,9 +167,8 @@ img::-moz-selection {
     #mainNav.navbar-shrink {
         padding-top: 0;
         padding-bottom: 0;
-        -webkit-box-shadow: inset 0px 40px 26px -14px #000000; 
-        box-shadow: inset 0px 40px 36px 0px #000000;
-        filter: drop-shadow(2px) ;
+        -webkit-box-shadow: rgb(0 0 0) 0px 50px 19px 0px inset; 
+        box-shadow:rgb(0 0 0) 0px 50px 19px 0px inset;
     }
 
     #mainNav.navbar-shrink .navbar-brand {
