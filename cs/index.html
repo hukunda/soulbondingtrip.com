@@ -74,6 +74,23 @@
   </p>
 
   <style>
+    .parallax {
+    /* The image used */
+    background-image: url("../assets/img/header-n.jpg");
+
+    /* Set a specific height */
+    min-height: 600px;
+
+   /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-box-shadow:   inset 0 0 80px 60px rgba(0,0,0,1);
+   -webkit-box-shadow: inset 0 0 80px 60px rgba(0,0,0,1);
+   box-shadow:         inset 0 0 80px 60px rgba(0,0,0,1);
+  }
+
     .logo, .logo a {
     overflow: visible;
     }
@@ -121,7 +138,7 @@
     }
   </style>
 
-  <p><img src="../assets/img/header-n.jpg" style="width: 100%; top: -1em; position: relative;" /></p>
+<div class="parallax"></div>
 
   <!-- About -->
   <section class="page-section" id="about">
