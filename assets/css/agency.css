@@ -325,8 +325,10 @@ header.masthead .intro-text .intro-heading {
 
 .portfolio-modal .modal-dialog {
     text-align: center;
-    max-width: 50vw
+    max-width: 50vw;
 }
+
+
 
 .portfolio-modal .modal-content {
     padding: 100px 0;
@@ -515,6 +517,10 @@ header.masthead .intro-text .intro-heading {
         left: 50%
     }
 
+    .portfolio-modal {
+     max-width: 100vw !important;
+    }   
+
     .timeline>li {
         min-height: 100px;
         margin-bottom: 100px
@@ -546,6 +552,7 @@ header.masthead .intro-text .intro-heading {
         text-align: left
     }
 }
+
 
 @media (min-width: 992px) {
     .timeline>li {
