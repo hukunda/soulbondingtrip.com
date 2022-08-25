@@ -366,9 +366,9 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .modal-content button {
-    cursor: pointer
+    cursor: pointer;
 }
-
+/*
 .portfolio-modal .close-modal {
     position: absolute;
     top: 25px;
@@ -382,6 +382,7 @@ header.masthead .intro-text .intro-heading {
 .portfolio-modal .close-modal:hover {
     opacity: 0.3
 }
+
 
 .portfolio-modal .close-modal .lr {
     z-index: 1051;
@@ -403,6 +404,8 @@ header.masthead .intro-text .intro-heading {
     transform: rotate(90deg);
     background-color: #212529
 }
+
+*/
 
 .timeline {
     position: relative;
