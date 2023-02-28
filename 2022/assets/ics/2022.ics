@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
+X-PUBLISHED-TTL:PT12H
+X-ORIGINAL-URL:https://www.facebook.com/events/445403723512188/
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220606T112450Z
+LAST-MODIFIED:20220606T112450Z
+CREATED:20210923T200306Z
+SEQUENCE:22087304
+ORGANIZER;CN=Soulbönding Trip:MAILTO:noreply@facebookmail.com
+DTSTART:20220908T150000Z
+DTEND:20220909T220000Z
+UID:e445403723512188@facebook.com
+SUMMARY:Soulbönding Trip 2022
+LOCATION:Soulkostel
+URL:https://www.facebook.com/events/445403723512188/
+DESCRIPTION:The Soulbönding Trip for the fift
+ h time!!\n\nThe Journey to the depth
+ s of the Czech - Poland borderline
+  and also a Journey to the depths 
+ of your own mind for the fifth tim
+ e. \nMore like a community than a f
+ estival.\nThree days of a calm retr
+ eat and perfect getaway. From what
+ ever you want.\n\nCONFIRMED BANDS:\n\n
+ - Electric Moon\n- Artur Rumiński\n
+ - Olaf Olafsonn and the Big Bad Tr
+ ip\n- Bön\n- Sekeromlat\n- Opium War
+ lock\n- Můra\n- Zuckmantel\n- Kosmik
+ u\n\nMORE INFO SOON!!!\n\nhttps://www.
+ facebook.com/events/44540372351218
+ 8/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+END:VCALENDAR
